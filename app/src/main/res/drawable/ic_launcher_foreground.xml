@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="0"
+        android:translateY="0">
+        <!-- Sun disc in morning mist -->
+        <path
+            android:fillColor="#33FFD166"
+            android:pathData="M54,34 A16,16 0 1,0 54,66 A16,16 0 1,0 54,34 Z" />
+        
+        <!-- Majestic Indian One-Horned Rhinoceros silhouette -->
+        <path
+            android:fillColor="#F6F0E0"
+            android:pathData="M78,54 C79,52 81,49 84,47 C83,50 82,53 81,55 C82,56 83,58 83,60 C81,61 79,61 77,59 L75,60 C74,62 72,64 70,64 L69,72 L65,72 L66,65 C64,65 62,65 60,65 L59,72 L55,72 L56,64 C52,64 48,63 45,61 C43,62 42,65 41,72 L37,72 L38,62 C35,60 34,57 34,53 C34,48 37,44 42,43 C46,42 50,44 54,46 C59,47 64,46 68,48 C72,50 75,53 78,54 Z" />
+        
+        <!-- Rhino Horn & Head detail -->
+        <path
+            android:fillColor="#E5C07B"
+            android:pathData="M81,51 C82,47 84,43 86,41 C84,45 83,49 82,53 Z" />
+        <path
+            android:fillColor="#F6F0E0"
+            android:pathData="M73,46 C74,43 76,41 77,42 C76,44 75,46 74,47 Z" />
+            
+        <!-- Elephant Grass silhouettes -->
+        <path
+            android:fillColor="#A9DFBF"
+            android:pathData="M28,74 C30,66 31,58 35,52 C33,59 32,67 31,74 Z" />
+        <path
+            android:fillColor="#6BBF8C"
+            android:pathData="M32,74 C34,64 37,56 42,50 C38,58 36,66 35,74 Z" />
+        <path
+            android:fillColor="#A9DFBF"
+            android:pathData="M73,74 C75,66 78,59 83,54 C79,61 77,67 76,74 Z" />
+        <path
+            android:fillColor="#6BBF8C"
+            android:pathData="M78,74 C81,65 84,59 89,55 C85,62 83,68 81,74 Z" />
+            
+        <!-- Ground grassland ridge -->
+        <path
+            android:fillColor="#38704A"
+            android:pathData="M24,72 Q54,68 84,72 L84,76 L24,76 Z" />
+    </group>
+</vector>

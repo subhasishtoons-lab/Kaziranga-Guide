@@ -1,0 +1,6 @@
+{
+  "name": "Kaziranga",
+  "description": "Comprehensive guide for Kaziranga National Park: wildlife spotting tips, flora & fauna, interactive safari maps, and ride & lodge booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
